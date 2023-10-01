@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-01T10:14:00 IST" name="Default suite" finished-at="2023-10-01T10:14:25 IST" duration-ms="25383">
+    <groups>
+    </groups>
+    <test started-at="2023-10-01T10:14:00 IST" name="Default test" finished-at="2023-10-01T10:14:25 IST" duration-ms="25383">
+      <class name="product.CreateProductAndDeleteProduct">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:product.CreateProductAndDeleteProduct@279fedbd]" started-at="2023-10-01T10:14:00 IST" name="beforeSuite" finished-at="2023-10-01T10:14:00 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:product.CreateProductAndDeleteProduct@279fedbd]" started-at="2023-10-01T10:14:00 IST" name="beforeTest" finished-at="2023-10-01T10:14:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:product.CreateProductAndDeleteProduct@279fedbd]" started-at="2023-10-01T10:14:00 IST" name="beforeClass" finished-at="2023-10-01T10:14:04 IST" duration-ms="3786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:product.CreateProductAndDeleteProduct@279fedbd]" started-at="2023-10-01T10:14:04 IST" name="beforeMethod" finished-at="2023-10-01T10:14:06 IST" duration-ms="2986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CreateProductAndDeleteProduct()[pri:0, instance:product.CreateProductAndDeleteProduct@279fedbd]" started-at="2023-10-01T10:14:07 IST" name="CreateProductAndDeleteProduct" finished-at="2023-10-01T10:14:23 IST" duration-ms="16984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProductAndDeleteProduct -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:product.CreateProductAndDeleteProduct@279fedbd]" started-at="2023-10-01T10:14:23 IST" name="afterMethod" finished-at="2023-10-01T10:14:25 IST" duration-ms="1280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:product.CreateProductAndDeleteProduct@279fedbd]" started-at="2023-10-01T10:14:25 IST" name="afterClass" finished-at="2023-10-01T10:14:25 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:product.CreateProductAndDeleteProduct@279fedbd]" started-at="2023-10-01T10:14:25 IST" name="afterTest" finished-at="2023-10-01T10:14:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:product.CreateProductAndDeleteProduct@279fedbd]" started-at="2023-10-01T10:14:25 IST" name="afterSuite" finished-at="2023-10-01T10:14:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- product.CreateProductAndDeleteProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
